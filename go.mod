@@ -1,4 +1,4 @@
-module github.com/robertsmieja-templates/golang-cli-template
+module github.com/robertsmieja/golang-cli
 
 go 1.13
 
